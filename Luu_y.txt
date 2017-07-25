@@ -1,0 +1,1 @@
+khi chạy ở local dùng ip 127.0.0.1 nhưng muốn public thì server phải open port và cung cấp 1 ip public để client kết nối đến
