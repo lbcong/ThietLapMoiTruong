@@ -1,0 +1,16 @@
+1. tai tomcat
+2. kiem tra java >> chua co thi cau hinh
+3. viet shell ( deploy file war len server)
+	sudo rm -rf /home/apache-tomcat-8.5.16/webapps/CrawlerSelenium-ubuntu-1.0-SNAPSHOT.war && sudo rm -rf /home/apache-tomcat-8.5.16/webapps/CrawlerSelenium-ubuntu-1.0-SNAPSHOT
+	sudo cp  /home/Downloads/ubuntu/CrawlerSelenium-ubuntu-1.0-SNAPSHOT.war /home/apache-tomcat-8.0.45/webapps/  
+4. run server
+	1. che do startup : ko co kiem tra loi
+
+	2. che do catalina : co kiem tra loi 
+	sudo sh /home/apache-tomcat-8.0.45/bin/catalina.sh run
+
+
+5. cau hinh /comf/tomcat-users.xml de dang nhap vao manager
+
+
+
