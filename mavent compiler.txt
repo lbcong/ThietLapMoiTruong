@@ -1,0 +1,3 @@
+chay lenh nay de clear & build project
+
+mvn -f /home/g131c900324/dowload_upload clean  && mvn -f /home/g131c900324/dowload_upload install
