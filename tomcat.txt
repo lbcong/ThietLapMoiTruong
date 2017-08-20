@@ -8,7 +8,8 @@
 
 	2. che do catalina : co kiem tra loi 
 	sudo sh /home/apache-tomcat-8.0.45/bin/catalina.sh run
-
+	
+	ctrl+c de dung
 
 5. cau hinh /comf/tomcat-users.xml de dang nhap vao manager
 
